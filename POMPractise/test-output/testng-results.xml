@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-01T15:02:48 IST" name="Default suite" finished-at="2025-04-01T15:03:40 IST" duration-ms="52780">
+  <suite started-at="2025-04-01T15:10:52 IST" name="Suite" finished-at="2025-04-01T15:11:44 IST" duration-ms="52140">
     <groups>
     </groups>
-    <test started-at="2025-04-01T15:02:48 IST" name="Default test" finished-at="2025-04-01T15:03:40 IST" duration-ms="52780">
+    <test started-at="2025-04-01T15:10:52 IST" name="Test" finished-at="2025-04-01T15:11:44 IST" duration-ms="52140">
       <class name="com.Tests.LoginTest">
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.Tests.LoginTest@33d512c1]" started-at="2025-04-01T15:02:49 IST" name="beforeMethod" finished-at="2025-04-01T15:02:56 IST" duration-ms="7203" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.Tests.LoginTest@443118b0]" started-at="2025-04-01T15:10:54 IST" name="beforeMethod" finished-at="2025-04-01T15:10:58 IST" duration-ms="4275" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:com.Tests.LoginTest@33d512c1]" started-at="2025-04-01T15:02:56 IST" name="Login" data-provider="LoginCredentials" finished-at="2025-04-01T15:02:59 IST" duration-ms="2880" status="PASS">
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:com.Tests.LoginTest@443118b0]" started-at="2025-04-01T15:10:58 IST" name="Login" data-provider="LoginCredentials" finished-at="2025-04-01T15:11:01 IST" duration-ms="3394" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -27,15 +27,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.Tests.LoginTest@33d512c1]" started-at="2025-04-01T15:02:59 IST" name="afterMethod" finished-at="2025-04-01T15:02:59 IST" duration-ms="237" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.Tests.LoginTest@443118b0]" started-at="2025-04-01T15:11:01 IST" name="afterMethod" finished-at="2025-04-01T15:11:02 IST" duration-ms="294" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.Tests.LoginTest@33d512c1]" started-at="2025-04-01T15:02:59 IST" name="beforeMethod" finished-at="2025-04-01T15:03:02 IST" duration-ms="2737" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.Tests.LoginTest@443118b0]" started-at="2025-04-01T15:11:02 IST" name="beforeMethod" finished-at="2025-04-01T15:11:05 IST" duration-ms="2928" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:com.Tests.LoginTest@33d512c1]" started-at="2025-04-01T15:03:02 IST" name="Login" data-provider="LoginCredentials" finished-at="2025-04-01T15:03:13 IST" duration-ms="10676" status="PASS">
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:com.Tests.LoginTest@443118b0]" started-at="2025-04-01T15:11:05 IST" name="Login" data-provider="LoginCredentials" finished-at="2025-04-01T15:11:15 IST" duration-ms="10594" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -51,15 +51,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.Tests.LoginTest@33d512c1]" started-at="2025-04-01T15:03:13 IST" name="afterMethod" finished-at="2025-04-01T15:03:13 IST" duration-ms="380" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.Tests.LoginTest@443118b0]" started-at="2025-04-01T15:11:15 IST" name="afterMethod" finished-at="2025-04-01T15:11:16 IST" duration-ms="321" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.Tests.LoginTest@33d512c1]" started-at="2025-04-01T15:03:13 IST" name="beforeMethod" finished-at="2025-04-01T15:03:16 IST" duration-ms="2892" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.Tests.LoginTest@443118b0]" started-at="2025-04-01T15:11:16 IST" name="beforeMethod" finished-at="2025-04-01T15:11:18 IST" duration-ms="2873" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:com.Tests.LoginTest@33d512c1]" started-at="2025-04-01T15:03:16 IST" name="Login" data-provider="LoginCredentials" finished-at="2025-04-01T15:03:27 IST" duration-ms="10521" status="PASS">
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:com.Tests.LoginTest@443118b0]" started-at="2025-04-01T15:11:18 IST" name="Login" data-provider="LoginCredentials" finished-at="2025-04-01T15:11:29 IST" duration-ms="10488" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -75,15 +75,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.Tests.LoginTest@33d512c1]" started-at="2025-04-01T15:03:27 IST" name="afterMethod" finished-at="2025-04-01T15:03:27 IST" duration-ms="259" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.Tests.LoginTest@443118b0]" started-at="2025-04-01T15:11:29 IST" name="afterMethod" finished-at="2025-04-01T15:11:31 IST" duration-ms="1793" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.Tests.LoginTest@33d512c1]" started-at="2025-04-01T15:03:27 IST" name="beforeMethod" finished-at="2025-04-01T15:03:30 IST" duration-ms="2770" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.Tests.LoginTest@443118b0]" started-at="2025-04-01T15:11:31 IST" name="beforeMethod" finished-at="2025-04-01T15:11:33 IST" duration-ms="2739" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:com.Tests.LoginTest@33d512c1]" started-at="2025-04-01T15:03:30 IST" name="Login" data-provider="LoginCredentials" finished-at="2025-04-01T15:03:40 IST" duration-ms="10610" status="PASS">
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:com.Tests.LoginTest@443118b0]" started-at="2025-04-01T15:11:33 IST" name="Login" data-provider="LoginCredentials" finished-at="2025-04-01T15:11:44 IST" duration-ms="10726" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -99,11 +99,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.Tests.LoginTest@33d512c1]" started-at="2025-04-01T15:03:40 IST" name="afterMethod" finished-at="2025-04-01T15:03:40 IST" duration-ms="321" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.Tests.LoginTest@443118b0]" started-at="2025-04-01T15:11:44 IST" name="afterMethod" finished-at="2025-04-01T15:11:44 IST" duration-ms="283" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
       </class> <!-- com.Tests.LoginTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
